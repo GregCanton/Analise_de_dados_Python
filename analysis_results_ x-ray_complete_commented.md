@@ -44,10 +44,10 @@ weighted avg     0.9450    0.9450    0.9448       400
 <img width="960" height="720" alt="confusion_matrix" src="https://github.com/user-attachments/assets/82e09f93-dc58-4ec9-b303-3e195003df88" />
 
 
-<img width="960" height="720" alt="roc_curve" src="https://github.com/user-attachments/assets/480de690-ae90-4793-9035-102573fd7d47" />
-
 **ROC Curve:**
 
+
+<img width="960" height="720" alt="roc_curve" src="https://github.com/user-attachments/assets/480de690-ae90-4793-9035-102573fd7d47" />
 
 **ROC-AUC:** 0.975
 
@@ -111,5 +111,6 @@ Canton, G. (2025). X-ray Pneumonia Detection with HOG + LinearSVC. GitHub reposi
 
 ---
 **Author**: Gregório Platero Canton
+
 
 
