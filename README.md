@@ -10,7 +10,7 @@ Vejo cada projeto como uma oportunidade de **aprimorar habilidades**, explorar n
 
 Neste repositório, você encontrará:
 - Projetos que aplicam **métodos estatísticos e machine learning** para gerar insights relevantes.
-- Estudos com **dados reais ou anonimizados**, respeitando a LGPD e boas práticas de governança.
+- Estudos com **dados reais e anonimizados**, respeitando a LGPD e boas práticas de governança.
 - Soluções documentadas e reproduzíveis, pensadas para facilitar aprendizado e replicação.
 
 Meu objetivo é continuar evoluindo como profissional de ciência de dados, expandindo minha capacidade de transformar dados em **decisões inteligentes** e contribuindo com a comunidade por meio da troca de conhecimento e experiências.
